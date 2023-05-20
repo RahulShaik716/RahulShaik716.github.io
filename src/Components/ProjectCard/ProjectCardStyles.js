@@ -8,7 +8,6 @@ margin-bottom : 2em;
 `
 export const ScreenShot = styled.img
 `
-max-height : 15em;
 height : 15em; 
 width : 10em;
 object-fit : contain;
@@ -52,15 +51,12 @@ overflow : visible;
 export const FirstCard = styled.div
 `
   background-color : #f5f5f5;
-  max-width : 20em;
-  max-height : 6em;
-  overflow-y : scroll;
+  width : 20em;
+  height : 6em;
   padding : 1em;
 `;
 export const SecondCard = styled.div
-`
-max-width : 15em; 
-margin-left : 22em;
+`width : 15em; 
 `;
 
 export const Left = styled.div

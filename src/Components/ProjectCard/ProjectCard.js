@@ -17,7 +17,7 @@ const ProjectCard = ()=>
          <Left>
          <ScreenShot src={project.url} alt={project.ProjectName}/>
          </Left>
-         <Line/>
+         {/* <Line/> */}
          <Right> 
          <FirstCard> 
           <Title> {project.ProjectName}

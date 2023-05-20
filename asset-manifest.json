@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.5d2cd7e1.css",
+    "main.js": "/react-gh-pages/static/js/main.4a0034e1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
+    "static/media/background.mp4": "/react-gh-pages/static/media/background.ccc15b8aaba09e56408f.mp4",
+    "static/media/beacons.jpg": "/react-gh-pages/static/media/beacons.18114121f785049f5e2b.jpg",
+    "static/media/mypic.jpg": "/react-gh-pages/static/media/mypic.8883b5c4e524c8f176d0.jpg",
+    "static/media/resume1.pdf": "/react-gh-pages/static/media/resume1.00bf2a1780ded7ce47d3.pdf",
+    "static/media/SFA.webp": "/react-gh-pages/static/media/SFA.8ab686d25854634e515d.webp",
+    "static/media/Remmonitor.png": "/react-gh-pages/static/media/Remmonitor.8db5d20aeda30633eb6e.png",
+    "static/media/LA.webp": "/react-gh-pages/static/media/LA.a1ce7ac5bbfc6a9b6a50.webp",
+    "static/media/s&c.png": "/react-gh-pages/static/media/s&c.88fb1bf878740bd4a74e.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.5d2cd7e1.css.map": "/react-gh-pages/static/css/main.5d2cd7e1.css.map",
+    "main.4a0034e1.js.map": "/react-gh-pages/static/js/main.4a0034e1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d2cd7e1.css",
+    "static/js/main.4a0034e1.js"
+  ]
+}

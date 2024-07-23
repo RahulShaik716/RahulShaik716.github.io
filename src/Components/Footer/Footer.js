@@ -14,15 +14,15 @@ const Footer = ()=>
     </Title>
     <Navigation>
         <NavigationList>
-        <ListItem> 
-        <Link href={Resume} download>
-          <div style={{display : 'flex',flexDirection:'row'}}>
-          <FontAwesomeIcon icon={faDownload}/>
-         <Title> Download Resume </Title>
+        // <ListItem> 
+        // <Link href={Resume} download>
+        //   <div style={{display : 'flex',flexDirection:'row'}}>
+        //   <FontAwesomeIcon icon={faDownload}/>
+        //  <Title> Download Resume </Title>
         
-         </div>
-        </Link>
-        </ListItem>
+        //  </div>
+        // </Link>
+        // </ListItem>
         <ListItem>
         <Link href="https://github.com/RahulShaik716">
         <FontAwesomeIcon icon={faGithub} />
